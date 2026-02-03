@@ -1,10 +1,10 @@
 # 🗳️ Rivers State 2023 Governorship Election: A Strategic Data Analytics Case Study
 > **Comprehensive Evaluation of Electoral Logistics, Party Performance, and Voter Behavior using Power BI, Excel, and Power Query.**
-![Election map](Election%20Dashboard.png)
+
 ---
 
 ## 📋 Table of Contents
-1. [Project Overview](-project-objectives)
+1. [Project Objectives](-project-objectives)
 2. [Data Source & Quality Audit](-data-source--quality-audit)
 3. [Technical Stack](-technical-stack)
 4. [Data Analysis Process (ETL)](-data-analysis-process-etl)
@@ -12,9 +12,10 @@
 6. [Identified Problems & Data-Driven Solutions](-identified-problems--data-driven-solutions)
 7. [DAX Logic & Measures](-dax-logic--measures)
 8. [Limitations & Future Scope](-limitations--future-scope)
-9. [How to Use This Repository](-how-to-use-this-repository)
+9. [Conclusion](-conclusion)
 
 ---
+![Election map](Election%20Dashboard.png)
 
 ## 🎯 1. Project Objectives
 The primary goal of this documentation is to present a diagnostic view of the **2023 Rivers State Governorship Election**. Rather than just reporting numbers, this project aims to:
