@@ -104,6 +104,15 @@ To drive the insights in the Power BI dashboard, the following measures were cre
 // Measure for Turnout Ratio
 Turnout % = DIVIDE(SUM('Results'[Accredited Voters]), SUM('Results'[Registered Voters]), 0)
 ```
+```
+// Measure for Total Votes
+Total Votes = 
+[APC(TOTAL)] + [PDP(TOTAL)] + [SDP(TOTAL)] + [LP(TOTAL)] + [Others(TOTAL)]
+```
+```
+//Measure for Total Registered Vote
+Registered Individuals = SUM(Sheet1[Registered Voters])
+```
 
 // Measure for Rejection Impact
 ---
