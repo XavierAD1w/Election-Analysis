@@ -5,7 +5,7 @@
 
 ##  📑Table of Contents
 
-- [Project Objectives](#🎯project-objectives)
+- [🎯Project Objectives](#🎯project-objectives)
 - [Data Source and Quality Audit](#data-source-and-quality-audit)
 - [Technical Stack](#technical-stack)
 - [Data Analysis Process (ETL)](#data-analysis-process-etl)
