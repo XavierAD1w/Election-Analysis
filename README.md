@@ -26,7 +26,7 @@ The primary goal of this documentation is to present a diagnostic view of the **
 * **Map Political Geography:** Identify strongholds for the PDP, APC, SDP, and LP across 23 LGAs.
 * **Audit Administrative Integrity:** Highlight hotspots for rejected ballots and accreditation bottlenecks to influence future policy.
 
-## 📂Data Source and Quality Audit
+##📂Data Source and Quality Audit
 The dataset consists of a detailed breakdown of electoral returns across the **23 Local Government Areas (LGAs)** of Rivers State. 
 * **Key Entities:** Registered Voters, Accredited Voters, TVV (Total Valid Votes), and Rejected Votes.
 * **Party Metrics:** Performance data for 18 political parties.
@@ -39,7 +39,7 @@ The dataset consists of a detailed breakdown of electoral returns across the **2
 
 ---
 
-## ⚙️Data Analysis Process (ETL)
+##⚙️Data Analysis Process (ETL)
 The transformation phase was critical to ensuring the accuracy of the geospatial visuals:
 1. **Extraction:** Ingested the raw CSV dataset.
 2. **Transformation:** 
@@ -88,7 +88,7 @@ Turnout % = DIVIDE(SUM('Results'[Accredited Voters]), SUM('Results'[Registered V
 // Measure for Rejection Impact
 ---
 
-## ⚠️Limitations and Future Scope
+##⚠️Limitations and Future Scope
 While this analysis provides a high-level strategic overview, several constraints must be acknowledged to maintain data integrity and context:
 
 * **Granularity Constraints:** The current dataset is aggregated at the **LGA level**. Without Ward-level or Polling Unit-level data, we cannot pinpoint specific communities where technical failures occurred.
@@ -105,7 +105,7 @@ The data-driven evidence points toward a need for **surgical administrative refo
 
 ---
 
-## 👨‍💻About the Author
+##👨‍💻About the Author
 **[Your Name]**  
 Data Analyst & Visualization Specialist — Focusing on transforming complex socio-political data into actionable governance insights.
 
