@@ -12,7 +12,7 @@
 - [📊Strategic Results and Visualization](#strategic-results-and-visualization)
 - [💡Identified Problems and Data-Driven Solutions](#identified-problems-and-data-driven-solutions)
 - [🧪DAX Logic and Measures](#dax-logic-and-measures)
-- [⚠️Limitations and Future Scope](#limitations-and-future-scope)
+- [⚠️ Limitations and Future Scope](#limitations-and-future-scope)
 - [🏁Conclusion](#conclusion)
 - [👨‍💻About the Author](#about-the-author)
 
@@ -88,7 +88,7 @@ Turnout % = DIVIDE(SUM('Results'[Accredited Voters]), SUM('Results'[Registered V
 // Measure for Rejection Impact
 ---
 
-##⚠️Limitations and Future Scope
+##⚠️ Limitations and Future Scope
 While this analysis provides a high-level strategic overview, several constraints must be acknowledged to maintain data integrity and context:
 
 * **Granularity Constraints:** The current dataset is aggregated at the **LGA level**. Without Ward-level or Polling Unit-level data, we cannot pinpoint specific communities where technical failures occurred.
