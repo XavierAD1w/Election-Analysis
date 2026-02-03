@@ -3,17 +3,17 @@
 
 ---
 
-## 📋 Table of Contents
+## 📑 Table of Contents
 
-- [Project Objectives](#project-objectives)
-- [Data Source & Quality Audit](#data-source--quality-audit)
-- [Technical Stack](#technical-stack)
-- [Data Analysis Process (ETL)](#data-analysis-process-etl)
-- [Strategic Results & Visualization](#strategic-results--visualization)
-- [Identified Problems & Data-Driven Solutions](#identified-problems--data-driven-solutions)
-- [DAX Logic & Measures](#dax-logic--measures)
-- [Limitations & Future Scope](#limitations--future-scope)
-- [How to Use This Repository](#how-to-use-this-repository)
+- [Project Objectives](#1-project-objectives)
+- [Data Source & Quality Audit](#2-data-source--quality-audit)
+- [Technical Stack](#3-technical-stack)
+- [Data Analysis Process (ETL)](#4-data-analysis-process-etl)
+- [Strategic Results & Visualization](#5-strategic-results--visualization)
+- [Identified Problems & Data-Driven Solutions](#6-identified-problems--data-driven-solutions)
+- [DAX Logic & Measures](#7-dax-logic--measures)
+- [Limitations & Future Scope](#8-limitations--future-scope)
+- [Conclusion](#9-conclusion)
 
 
 ---
