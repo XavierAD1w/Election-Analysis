@@ -4,17 +4,20 @@
 ---
 
 ## 📋 Table of Contents
-1. [Project Objectives](-project-objectives)
-2. [Data Source & Quality Audit](-data-source--quality-audit)
-3. [Technical Stack](-technical-stack)
-4. [Data Analysis Process (ETL)](-data-analysis-process-etl)
-5. [Strategic Results & Visualization](-strategic-results--visualization)
-6. [Identified Problems & Data-Driven Solutions](-identified-problems--data-driven-solutions)
-7. [DAX Logic & Measures](-dax-logic--measures)
-8. [Limitations & Future Scope](-limitations--future-scope)
-9. [Conclusion](-conclusion)
+
+- [Project Objectives](-#-project-objectives)
+- [Data Source & Quality Audit](#data-source--quality-audit)
+- [Technical Stack](#technical-stack)
+- [Data Analysis Process (ETL)](#data-analysis-process-etl)
+- [Strategic Results & Visualization](#strategic-results--visualization)
+- [Identified Problems & Data-Driven Solutions](#identified-problems--data-driven-solutions)
+- [DAX Logic & Measures](#dax-logic--measures)
+- [Limitations & Future Scope](#limitations--future-scope)
+- [How to Use This Repository](#how-to-use-this-repository)
+
 
 ---
+
 ![Election map](Election%20Dashboard.png)
 
 ## 🎯 1. Project Objectives
