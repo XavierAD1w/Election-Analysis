@@ -1,11 +1,11 @@
-# Rivers State 2023 Governorship Election: A Strategic Data Analytics Case Study
+# 🗳️Rivers State 2023 Governorship Election: A Strategic Data Analytics Case Study
 > Comprehensive Evaluation of Electoral Logistics, Party Performance, and Voter Behavior using Power BI, Excel, and Power Query.
 
 ---
 
-## Table of Contents
+##  📑Table of Contents
 
-- [Project Objectives](#project-objectives)
+- [Project Objectives](#🎯project-objectives)
 - [Data Source and Quality Audit](#data-source-and-quality-audit)
 - [Technical Stack](#technical-stack)
 - [Data Analysis Process (ETL)](#data-analysis-process-etl)
@@ -20,7 +20,7 @@
 
 ![Election map](Election%20Dashboard.png)
 
-## Project Objectives
+## 🎯Project Objectives
 The primary goal of this documentation is to present a diagnostic view of the **2023 Rivers State Governorship Election**. Rather than just reporting numbers, this project aims to:
 * **Quantify the Participation Gap:** Analyze the delta between registration and actual turnout.
 * **Map Political Geography:** Identify strongholds for the PDP, APC, SDP, and LP across 23 LGAs.
