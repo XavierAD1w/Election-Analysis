@@ -7,14 +7,14 @@
 
 - [🎯Project Objectives](#project-objectives)
 - [📂Data Source and Quality Audit](#data-source-and-quality-audit)
-- [🛠️ Technical Stack](#technical-stack)
+- [🛠️Technical Stack](#technical-stack)
 - [⚙️Data Analysis Process (ETL)](#data-analysis-process-etl)
 - [📊Strategic Results and Visualization](#strategic-results-and-visualization)
 - [💡Identified Problems and Data-Driven Solutions](#identified-problems-and-data-driven-solutions)
 - [🧪DAX Logic and Measures](#dax-logic-and-measures)
-- [⚠️ Limitations and Future Scope](#limitations-and-future-scope)
+- [⚠️Limitations and Future Scope](#limitations-and-future-scope)
 - [🏁Conclusion](#conclusion)
-- [👨‍💻 About the Author](#about-the-author)
+- [👨‍💻About the Author](#about-the-author)
 
 ---
 
@@ -32,7 +32,7 @@ The dataset consists of a detailed breakdown of electoral returns across the **2
 * **Party Metrics:** Performance data for 18 political parties.
 * **Integrity Validation:** A cross-reference audit was performed to ensure that `Valid Votes + Rejected Votes = Total Votes Cast`.
 
-## 🛠️ Technical Stack
+## 🛠️Technical Stack
 * **Power BI Desktop:** Used for data modeling, geospatial heat mapping, and interactive dashboarding.
 * **Power Query:** Employed for ETL (Extract, Transform, Load) processes, specifically for unpivoting party data and standardizing LGA names.
 * **Microsoft Excel:** Utilized for initial data profiling and audit checks.
@@ -88,7 +88,7 @@ Turnout % = DIVIDE(SUM('Results'[Accredited Voters]), SUM('Results'[Registered V
 // Measure for Rejection Impact
 ---
 
-## ⚠️ Limitations and Future Scope
+## ⚠️Limitations and Future Scope
 While this analysis provides a high-level strategic overview, several constraints must be acknowledged to maintain data integrity and context:
 
 * **Granularity Constraints:** The current dataset is aggregated at the **LGA level**. Without Ward-level or Polling Unit-level data, we cannot pinpoint specific communities where technical failures occurred.
@@ -105,7 +105,7 @@ The data-driven evidence points toward a need for **surgical administrative refo
 
 ---
 
-## 👨‍💻 About the Author
+## 👨‍💻About the Author
 **[Your Name]**  
 Data Analyst & Visualization Specialist — Focusing on transforming complex socio-political data into actionable governance insights.
 
